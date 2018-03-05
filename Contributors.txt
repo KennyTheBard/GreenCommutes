@@ -1,0 +1,4 @@
+Contributors prior to the creation of the repository:
+Ion Daniela worked on the Authentification Module and parsed the JSON files fetched from Google API.
+Ocanoaia Andreia adapted the Google Maps API and Breezometer API to display maps and multiple routes.
+Teculescu Octavian worked on the Graphical Interface and on the Input Control.
